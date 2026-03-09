@@ -1,4 +1,4 @@
-تمام يا مصطفى، ده نفس الـ **Overview** لكن شلت الكلام اللي في الآخر علشان تقدر **تاخده Copy وتحطه مباشرة في GitHub README**.
+
 
 
 
@@ -137,11 +137,4 @@ The dashboard includes:
 * Product performance analysis
 * Geographic sales map
 * Return rate analysis
-* Interactive filters (Year, Month, Continent)
-
----
-
-لو حابب كمان، أعمل لك حاجة مهمة جدًا تخلي المشروع **يبان احترافي على GitHub زي مشاريع الداتا الكبيرة**:
-
-* أكتبلك **Project Description سطرين يحطهم فوق المشروع**
-* وأقولك **إزاي ترتب المشروع على GitHub علشان يبقى Portfolio قوي**.
+* Interactive filters (Year, Month, continent)
